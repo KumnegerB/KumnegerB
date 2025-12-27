@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="assets/fly.gif" alt="Banner" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:001b3a,100:002b5b&height=180&section=header&text=Hey%2C%20I%27m%20Kumneger&fontSize=38&fontColor=00eaff&animation=fadeIn&fontAlignY=35" />
