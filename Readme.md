@@ -1,5 +1,5 @@
 <div style="width:100%;max-width:1600px;aspect-ratio:16/9;overflow:hidden;border-radius:8px;">
-  <img src="assets/kb2.png" alt="Banner" style="width:100%;height:90%;object-fit:cover;display:block;" />
+  <img src="assets/kb2.png" alt="Banner" style="width:100%;height:50%;object-fit:cover;display:block;" />
 </div>
 
 ![Hey, I'm Kumneger](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFD700&height=180&section=header&text=Hey%2C%20I%27m%20Kumneger&fontSize=38&fontColor=000000&animation=fadeIn&fontAlignY=35&descAlignY=60&descAlign=50&descSize=16)
