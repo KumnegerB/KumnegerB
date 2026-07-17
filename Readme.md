@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>A Software Engineering student, I Build projects and explore new technologies</b><br/>
+  <b>A Software Engineering Graduate, I Build projects and explore new technologies</b><br/>
 <br/>
   
 </p>
